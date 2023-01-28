@@ -1,0 +1,72 @@
+.header {
+    text-align: center;
+    margin-bottom: 100px;
+}
+
+.validator-page {
+    text-align: center;
+}
+
+.validator-text {
+    font-size: 18px;
+    padding-bottom: 25px;
+}
+
+.card-validator-form {
+    width: 500px;
+    margin: auto;
+}
+
+.card {
+    width: 40px;
+    height: 25px;
+    padding: 2px;
+    margin: 10px;
+
+    border-radius: 10px;
+    border: 2px #ccc solid;
+    box-shadow: 0 0 10px #444;
+}
+
+.card-form {
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.card-form-text {
+    width: 250px;
+    height: 34px;
+    padding: 6px 12px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    margin: 0;
+}
+
+.btn {
+    width: 150px;
+    height: 46px;
+    box-sizing: border-box;
+    margin-left: 10px;
+    color: #fff;
+    background-color: #5cb85c;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+.hidden {
+    opacity: 0.3;
+}
+
+p {
+    text-align: center;
+    font-size: 18px;
+}
+
+.success {
+    color: green;
+}
+
+.fail {
+    color: red;
+}
